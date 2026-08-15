@@ -1,0 +1,31 @@
+season,round,race_name,circuit_id,date,driver_id,driver_code,driver_name,constructor_id,constructor_name,grid_position,finish_position,points,laps_completed,status,finish_time,positions_gained,qualifying_position,standings_as_of_round,driver_code_standing,constructor_id_standing,standings_position,standings_points_snapshot,wins
+2026,1,Australian Grand Prix,albert_park,2026-03-08,russell,RUS,George Russell,mercedes,Mercedes,1,1,25.0,58,Finished,1:23:06.801,0,1.0,11,RUS,mercedes,3,,2
+2026,1,Australian Grand Prix,albert_park,2026-03-08,antonelli,ANT,Andrea Kimi Antonelli,mercedes,Mercedes,2,2,18.0,58,Finished,+2.974,0,2.0,11,ANT,mercedes,1,,6
+2026,1,Australian Grand Prix,albert_park,2026-03-08,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4,3,15.0,58,Finished,+15.519,1,4.0,11,LEC,ferrari,4,,1
+2026,1,Australian Grand Prix,albert_park,2026-03-08,hamilton,HAM,Lewis Hamilton,ferrari,Ferrari,7,4,12.0,58,Finished,+16.144,3,7.0,11,HAM,ferrari,2,,1
+2026,1,Australian Grand Prix,albert_park,2026-03-08,norris,NOR,Lando Norris,mclaren,McLaren,6,5,10.0,58,Finished,+51.741,1,6.0,11,NOR,mclaren,5,,1
+2026,1,Australian Grand Prix,albert_park,2026-03-08,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,20,6,8.0,58,Finished,+54.617,14,,11,VER,red_bull,6,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,bearman,BEA,Oliver Bearman,haas,Haas F1 Team,12,7,6.0,57,Lapped,+4.593,5,12.0,11,BEA,haas,13,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,arvid_lindblad,LIN,Arvid Lindblad,rb,RB F1 Team,9,8,4.0,57,Lapped,+11.816,1,9.0,11,LIN,rb,11,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,bortoleto,BOR,Gabriel Bortoleto,audi,Audi,10,9,2.0,57,Lapped,+12.775,1,10.0,11,BOR,audi,14,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,gasly,GAS,Pierre Gasly,alpine,Alpine F1 Team,14,10,1.0,57,Lapped,+29.027,4,14.0,11,GAS,alpine,10,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,ocon,OCO,Esteban Ocon,haas,Haas F1 Team,13,11,0.0,57,Lapped,+29.850,2,13.0,11,OCO,haas,17,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,albon,ALB,Alexander Albon,williams,Williams,15,12,0.0,57,Lapped,+56.075,3,15.0,11,ALB,williams,16,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,lawson,LAW,Liam Lawson,rb,RB F1 Team,8,13,0.0,57,Lapped,+57.173,-5,8.0,11,LAW,rb,9,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,colapinto,COL,Franco Colapinto,alpine,Alpine F1 Team,16,14,0.0,56,Lapped,+8.487,2,16.0,11,COL,alpine,12,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,sainz,SAI,Carlos Sainz,williams,Williams,21,15,0.0,56,Lapped,+36.886,6,,11,SAI,williams,15,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,perez,PER,Sergio Pérez,cadillac,Cadillac F1 Team,18,16,0.0,55,Lapped,+7.850,2,18.0,11,PER,cadillac,22,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,stroll,STR,Lance Stroll,aston_martin,Aston Martin,22,17,0.0,43,Lapped,,5,,11,STR,aston_martin,20,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,17,18,0.0,21,Retired,,-1,17.0,11,ALO,aston_martin,19,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,bottas,BOT,Valtteri Bottas,cadillac,Cadillac F1 Team,19,19,0.0,15,Retired,,0,19.0,11,BOT,cadillac,21,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,hadjar,HAD,Isack Hadjar,red_bull,Red Bull,3,20,0.0,10,Retired,,-17,3.0,11,HAD,red_bull,8,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,piastri,PIA,Oscar Piastri,mclaren,McLaren,5,21,0.0,0,Did not start,,-16,5.0,11,PIA,mclaren,7,,0
+2026,1,Australian Grand Prix,albert_park,2026-03-08,hulkenberg,HUL,Nico Hülkenberg,audi,Audi,11,22,0.0,0,Did not start,,-11,11.0,11,HUL,audi,18,,0
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,antonelli,ANT,Andrea Kimi Antonelli,mercedes,Mercedes,1,1,25.0,56,Finished,1:33:15.607,0,1.0,11,ANT,mercedes,1,,6
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,russell,RUS,George Russell,mercedes,Mercedes,2,2,18.0,56,Finished,+5.515,0,2.0,11,RUS,mercedes,3,,2
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,hamilton,HAM,Lewis Hamilton,ferrari,Ferrari,3,3,15.0,56,Finished,+25.267,0,3.0,11,HAM,ferrari,2,,1
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4,4,12.0,56,Finished,+28.894,0,4.0,11,LEC,ferrari,4,,1
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,bearman,BEA,Oliver Bearman,haas,Haas F1 Team,10,5,10.0,56,Finished,+57.268,5,10.0,11,BEA,haas,13,,0
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,gasly,GAS,Pierre Gasly,alpine,Alpine F1 Team,7,6,8.0,56,Finished,+59.647,1,7.0,11,GAS,alpine,10,,0
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,lawson,LAW,Liam Lawson,rb,RB F1 Team,14,7,6.0,56,Finished,+1:20.588,7,,11,LAW,rb,9,,0
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,hadjar,HAD,Isack Hadjar,red_bull,Red Bull,9,8,4.0,56,Finished,+1:27.247,1,9.0,11,HAD,red_bull,8,,0

@@ -1,0 +1,30 @@
+season,round,race_name,driver_id,driver_code,constructor_id,constructor_name,qualifying_position,Q1,Q2,Q3
+2026,1,Australian Grand Prix,russell,RUS,mercedes,Mercedes,1,1:19.507,1:18.934,1:18.518
+2026,1,Australian Grand Prix,antonelli,ANT,mercedes,Mercedes,2,1:20.120,1:19.435,1:18.811
+2026,1,Australian Grand Prix,hadjar,HAD,red_bull,Red Bull,3,1:20.023,1:19.653,1:19.303
+2026,1,Australian Grand Prix,leclerc,LEC,ferrari,Ferrari,4,1:20.226,1:19.357,1:19.327
+2026,1,Australian Grand Prix,piastri,PIA,mclaren,McLaren,5,1:19.664,1:19.525,1:19.380
+2026,1,Australian Grand Prix,norris,NOR,mclaren,McLaren,6,1:20.010,1:19.882,1:19.475
+2026,1,Australian Grand Prix,hamilton,HAM,ferrari,Ferrari,7,1:19.811,1:19.921,1:19.478
+2026,1,Australian Grand Prix,lawson,LAW,rb,RB F1 Team,8,1:20.491,1:20.144,1:19.994
+2026,1,Australian Grand Prix,arvid_lindblad,LIN,rb,RB F1 Team,9,1:20.409,1:19.971,1:21.247
+2026,1,Australian Grand Prix,bortoleto,BOR,audi,Audi,10,1:20.495,1:20.221,
+2026,1,Australian Grand Prix,hulkenberg,HUL,audi,Audi,11,1:21.024,1:20.303,
+2026,1,Australian Grand Prix,bearman,BEA,haas,Haas F1 Team,12,1:21.247,1:20.311,
+2026,1,Australian Grand Prix,ocon,OCO,haas,Haas F1 Team,13,1:20.759,1:20.491,
+2026,1,Australian Grand Prix,gasly,GAS,alpine,Alpine F1 Team,14,1:21.138,1:20.501,
+2026,1,Australian Grand Prix,albon,ALB,williams,Williams,15,1:21.051,1:20.941,
+2026,1,Australian Grand Prix,colapinto,COL,alpine,Alpine F1 Team,16,1:21.200,1:21.270,
+2026,1,Australian Grand Prix,alonso,ALO,aston_martin,Aston Martin,17,1:21.969,,
+2026,1,Australian Grand Prix,perez,PER,cadillac,Cadillac F1 Team,18,1:22.605,,
+2026,1,Australian Grand Prix,bottas,BOT,cadillac,Cadillac F1 Team,19,1:23.244,,
+2026,2,Chinese Grand Prix,antonelli,ANT,mercedes,Mercedes,1,1:33.305,1:32.443,1:32.064
+2026,2,Chinese Grand Prix,russell,RUS,mercedes,Mercedes,2,1:33.262,1:32.523,1:32.286
+2026,2,Chinese Grand Prix,hamilton,HAM,ferrari,Ferrari,3,1:33.522,1:32.567,1:32.415
+2026,2,Chinese Grand Prix,leclerc,LEC,ferrari,Ferrari,4,1:33.175,1:32.486,1:32.428
+2026,2,Chinese Grand Prix,piastri,PIA,mclaren,McLaren,5,1:33.590,1:33.130,1:32.550
+2026,2,Chinese Grand Prix,norris,NOR,mclaren,McLaren,6,1:33.535,1:32.910,1:32.608
+2026,2,Chinese Grand Prix,gasly,GAS,alpine,Alpine F1 Team,7,1:33.788,1:33.003,1:32.873
+2026,2,Chinese Grand Prix,max_verstappen,VER,red_bull,Red Bull,8,1:33.417,1:33.098,1:33.002
+2026,2,Chinese Grand Prix,hadjar,HAD,red_bull,Red Bull,9,1:33.632,1:33.352,1:33.121
+2026,2,Chinese Grand Prix,bearman,BEA,haas,Haas F1 Team,10,1:33.687,1:33.197,1:33.292

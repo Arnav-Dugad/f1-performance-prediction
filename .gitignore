@@ -1,0 +1,24 @@
+# FastF1 cache — large binary files, must never be committed
+cache/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Large raw data pulls are regenerable from src/data_collection.py.
+# We keep the small curated processed/ files and the sample_live_fetch/
+# bootstrap data under version control, but not bulk raw dumps.
+data/raw/fastf1/*.csv
+!data/raw/fastf1/.gitkeep
